@@ -1,0 +1,9 @@
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\bin\Debug\CodeBracketFixer.exe.config
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\bin\Debug\CodeBracketFixer.exe
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\bin\Debug\CodeBracketFixer.pdb
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\obj\Debug\CodeBracketFixer.csprojResolveAssemblyReference.cache
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\obj\Debug\CodeBracketFixer.Form1.resources
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\obj\Debug\CodeBracketFixer.Properties.Resources.resources
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\obj\Debug\CodeBracketFixer.csproj.GenerateResource.Cache
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\obj\Debug\CodeBracketFixer.exe
+a:\documents\visual studio 2015\Projects\CodeBracketFixer\CodeBracketFixer\obj\Debug\CodeBracketFixer.pdb
